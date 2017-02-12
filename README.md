@@ -1,4 +1,4 @@
-# nextgame
+# NextGame
 Code for Insight project, NextGame, a web application that recommends video games based on an entered set of
 consoles, collaborative filtering using game critics ratings, and reinforcement learning.
 
